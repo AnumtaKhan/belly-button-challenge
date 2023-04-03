@@ -1,21 +1,27 @@
 # Belly Button Biodiversity Analysis
 
-### In this assignment, I have created an interactive dashboard that explores the dataset for Belly Button Biodiversity.
-### The dataset reveals that a small handful of microbial species (also called operational taxonomic units, or OTUs, in the study) were present in more than 70% of people, while the rest were relatively rare.
-### As this Dashboard contains many samples, you are able to update all plots when a new sample is selected
+#### In this assignment, I have created an interactive dashboard that explores the dataset for Belly Button Biodiversity.
+![Belly Button Biodiversity Dashboard](https://user-images.githubusercontent.com/119235680/229403453-5868a41b-3697-463c-8e1c-4c168c32763f.png)
+
+#### The dataset reveals that a small handful of microbial species (also called operational taxonomic units, or OTUs, in the study) were present in more than 70% of people, while the rest were relatively rare.
+
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Part 1 - Top 10 OTUs found
 I have created a horizontal bar chart that displays the top 10 OTUs found in a particular individual.
+![Bar Chart](https://user-images.githubusercontent.com/119235680/229403650-6f8b4e48-0ca1-47e7-ab0d-3f73768ae48f.png)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Part 2 - Bacteria found
 I have created a bubble chart that displays the Bacteria found per sample.
+![Bubble Chart](https://user-images.githubusercontent.com/119235680/229403894-65813684-600d-44f1-b869-46dba545628f.png)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Part 3 - Metadata
 I have created a section which displays the individual's demographic information such as id, ethnicity, gender, age, etc.
+![Metadata](https://user-images.githubusercontent.com/119235680/229403962-a5f933a3-ea2b-479d-a645-71efe351655f.png)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------

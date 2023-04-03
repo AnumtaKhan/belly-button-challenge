@@ -67,7 +67,7 @@ function buildBarChart(sample) {
         console.log(otu_ids, otu_labels, sample_values);
 
         // Set the top ten items to display (descending order)
-        let yticks = otu_ids.slice(0,10).map(id => "OTU ${id}").reverse();
+        let yticks = otu_ids.slice(0,10).map(id => `OTU ${id}`).reverse();
         let xticks = sample_values.slice(0,10).reverse();
         let labels = otu_labels.slice(0,10).reverse();
         
@@ -166,7 +166,7 @@ function buildMetadata(sample) {
             // Log the individual pairs to the Metadata panel
             console.log(key, ValueofSample);
 
-            d3.select("#sample-Metadata").append("h5").text('${key}: ${ValueofSample}');
+            d3.select("#sample-Metadata").append("h5").text(`${key}: ${ValueofSample}`);
         });
     });
 

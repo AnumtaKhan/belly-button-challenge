@@ -20,5 +20,4 @@ I have created a bubble chart that displays the Bacteria found per sample.
 ### Part 3 - Demographic Info
 I have displayed Metadata which has the individual's demographic information such as id, ethnicity, gender, age, etc.
 ![Metadata](https://user-images.githubusercontent.com/119235680/229403962-a5f933a3-ea2b-479d-a645-71efe351655f.png)
-
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------

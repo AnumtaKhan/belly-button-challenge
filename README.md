@@ -1,6 +1,8 @@
 # Belly Button Biodiversity Analysis
 
 #### In this assignment, I have created an interactive dashboard that explores the dataset for Belly Button Biodiversity.
+Please see a link to my dashboard below, with a summary screenshot:
+https://anumtakhan.github.io/belly-button-challenge/
 
 ![Belly Button Biodiversity Dashboard](https://user-images.githubusercontent.com/119235680/229403453-5868a41b-3697-463c-8e1c-4c168c32763f.png)
 
